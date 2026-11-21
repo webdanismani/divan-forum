@@ -1,0 +1,9 @@
+{
+    "id": "Meydan/Example",
+    "title": "Example add-on",
+    "description": "Shows how an add-on adds a page, a footer line and a translation. Safe to delete.",
+    "version": "1.0.0",
+    "author": "Meydan",
+    "namespace": "Meydan\\Example",
+    "main": "Addon"
+}

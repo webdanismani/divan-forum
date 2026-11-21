@@ -1,0 +1,72 @@
+<?php
+
+// Turkish messages for the validation rules the forum uses. Rules that are
+// not listed here fall back to the framework's English messages.
+
+return [
+    'accepted' => ':attribute kabul edilmelidir.',
+    'after' => ':attribute, :date tarihinden sonra olmalıdır.',
+    'array' => ':attribute bir liste olmalıdır.',
+    'confirmed' => ':attribute tekrarı eşleşmiyor.',
+    'current_password' => 'Mevcut şifre hatalı.',
+    'date' => ':attribute geçerli bir tarih olmalıdır.',
+    'dimensions' => ':attribute resim boyutları uygun değil.',
+    'email' => ':attribute geçerli bir e-posta adresi olmalıdır.',
+    'exists' => 'Seçilen :attribute geçersiz.',
+    'image' => ':attribute bir resim dosyası olmalıdır.',
+    'in' => 'Seçilen :attribute geçersiz.',
+    'integer' => ':attribute bir tam sayı olmalıdır.',
+    'max' => [
+        'array' => ':attribute en fazla :max öğe içerebilir.',
+        'file' => ':attribute en fazla :max kilobayt olabilir.',
+        'numeric' => ':attribute en fazla :max olabilir.',
+        'string' => ':attribute en fazla :max karakter olabilir.',
+    ],
+    'mimes' => ':attribute şu türlerden biri olmalıdır: :values.',
+    'min' => [
+        'array' => ':attribute en az :min öğe içermelidir.',
+        'file' => ':attribute en az :min kilobayt olmalıdır.',
+        'numeric' => ':attribute en az :min olmalıdır.',
+        'string' => ':attribute en az :min karakter olmalıdır.',
+    ],
+    'not_in' => 'Seçilen :attribute geçersiz.',
+    'regex' => ':attribute biçimi geçersiz.',
+    'required' => ':attribute alanı zorunludur.',
+    'required_if' => ':attribute alanı zorunludur.',
+    'string' => ':attribute bir metin olmalıdır.',
+    'unique' => 'Bu :attribute zaten kullanılıyor.',
+    'uploaded' => ':attribute yüklenemedi.',
+    'url' => ':attribute geçerli bir adres olmalıdır.',
+
+    'password' => [
+        'letters' => ':attribute en az bir harf içermelidir.',
+        'mixed' => ':attribute en az bir büyük ve bir küçük harf içermelidir.',
+        'numbers' => ':attribute en az bir rakam içermelidir.',
+        'symbols' => ':attribute en az bir sembol içermelidir.',
+        'uncompromised' => 'Bu :attribute bir veri sızıntısında görülmüş. Lütfen başka bir :attribute seçin.',
+    ],
+
+    'attributes' => [
+        'username' => 'kullanıcı adı',
+        'email' => 'e-posta adresi',
+        'password' => 'şifre',
+        'current_password' => 'mevcut şifre',
+        'login' => 'kullanıcı adı veya e-posta',
+        'title' => 'başlık',
+        'body' => 'mesaj',
+        'reason' => 'sebep',
+        'recipients' => 'alıcılar',
+        'terms' => 'forum kuralları',
+        'avatar' => 'profil resmi',
+        'website' => 'web sitesi',
+        'location' => 'konum',
+        'about' => 'hakkında',
+        'signature' => 'imza',
+        'name' => 'ad',
+        'color' => 'renk',
+        'parent_id' => 'üst düğüm',
+        'link_url' => 'bağlantı adresi',
+        'prefix_id' => 'ön ek',
+        'node_id' => 'forum',
+    ],
+];

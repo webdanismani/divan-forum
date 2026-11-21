@@ -1,0 +1,108 @@
+Divan Forum Licence
+Version 1.0 — November 2026
+
+Copyright (c) 2026 Web Danışmanı (https://webdanismani.com). All rights reserved.
+
+Türkçe metin: LICENSE.tr.md
+
+This is not an open-source licence. The source code is published so that you can
+read it, run it and adapt it to your own forum. Please read the terms below before
+you use the software.
+
+
+1. Definitions
+
+"Software" means the Divan forum software in this repository, in source form.
+"Vendor" means Web Danışmanı, the owner of the Software.
+"Licence code" means the code the Vendor issues for one installation of the
+Software through https://webdanismani.com.
+"Installation" means one running copy of the Software, serving one forum at one
+address.
+
+
+2. What you may do
+
+Provided that you keep to this licence, the Vendor allows you, free of charge:
+
+a) to install and run the Software, for personal or commercial purposes, on
+   Installations that each hold a valid Licence code of their own;
+b) to run additional copies for development and testing that are not open to the
+   public;
+c) to read the source code and to change it for use on your own Installations;
+d) to send your changes back to the Vendor (for example as a pull request).
+
+
+3. Licence code
+
+Every Installation needs its own Licence code. The code for the Software itself is
+free of charge and is issued through the Vendor's shop at https://webdanismani.com.
+A code is tied to the address of the Installation it is activated on; it can be
+released from that Installation and used at another address.
+
+The Vendor may suspend or cancel a Licence code that is used against this licence.
+
+
+4. What you may not do
+
+You may not:
+
+a) distribute, publish, sell, rent, lend or sublicense the Software or any modified
+   version of it, in whole or in part, to anyone else. Publishing your own fork
+   on a code hosting service is allowed only where the service's terms give other
+   users no more than the right to view it and to prepare changes for the Vendor's
+   repository;
+b) remove, switch off or work around the licence check, or help others to do so;
+c) remove or change the copyright and licence notices in the Software;
+d) offer the Software to third parties as a hosted or managed forum service of
+   your own without the Vendor's written permission;
+e) use the names "Divan" and "Web Danışmanı" or their logos for a product or
+   service of your own, other than to say truthfully that your forum runs on the
+   Software.
+
+
+5. Paid modules and themes
+
+Modules and themes sold in the Vendor's market are not part of this repository and
+are not covered by this licence. Each of them is licensed separately and runs only
+with its own Licence code.
+
+
+6. Third-party components
+
+The Software uses components written by others (for example the Laravel
+framework). They remain under their own licences, which are found in their
+packages.
+
+
+7. Contributions
+
+When you send a change to the Vendor, you allow the Vendor to use, change and
+distribute it as part of the Software, under this licence or any other licence,
+without owing you anything. You confirm that you have the right to give that
+permission.
+
+
+8. End of the licence
+
+Your rights under this licence end automatically if you break its terms. When they
+end you must stop using the Software and delete your copies. Section 9 continues to
+apply.
+
+
+9. No warranty, limitation of liability
+
+The Software is provided "as is", without warranty of any kind, express or implied,
+including the warranties of merchantability, fitness for a particular purpose and
+non-infringement. To the extent the law allows, the Vendor is not liable for any
+claim, damage or other liability arising from the Software or from its use,
+including loss of data, loss of income and interruption of business.
+
+
+10. General
+
+This licence is governed by the laws of the Republic of Türkiye. If the Turkish and
+the English text of this licence differ, the Turkish text (LICENSE.tr.md) decides.
+The Vendor may publish new versions of this licence; a new version applies to the
+releases of the Software that are published with it.
+
+Questions about this licence: https://webdanismani.com
